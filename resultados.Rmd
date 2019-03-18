@@ -1,0 +1,33 @@
+---
+title: "Resultados"
+---
+
+\
+<p align="justify">
+Todas las variables, con excepción del poder promedio, que caracterizan el canto de A. spadiceus resultaron ser diferentes por país (Cuadro 2). Esto es observable en la figura 3.
+</p>
+\
+<p align="justify">
+**Cuadro 2.** Resultados de la comparación con el método de rangos de Kruskal-Wallis de los descriptores del canto de A. spadiceus por cada país. Grados de libertad = 4.
+</p>
+<p align="center">
+![](imagenes/kk.jpg){width=600px} 
+</p>
+\
+<p align="center">
+![](imagenes/boxplot.jpg){width=1100px} 
+</p>
+<p align="justify">
+**Figura 3.** Comparación de métricas del canto de A. spadiceus. Se muestra la diferencia en la variación de los datos.  
+</p>
+\
+<p align="justify">
+De manera puntual, se encontró que en Costa Rica se dan los valores más altos de energía y poder máximo y promedio. Para Panamá se encontró la mayor duración de los cantos y los máximos valores de frecuencia y entropía. El caso de Ecuador es interesante debido a que se encontraron allí el mínimo valor de frecuencia baja, pero también el máximo valor de frecuencia alta (Cuadro 3).
+</p>
+\
+\
+**Cuadro 3.** Valores de la mediana de las métricas del canto de A. spadiceus para cada país.
+</p>
+<p align="center">
+![](imagenes/medianas.jpg){width=600px} 
+</p>

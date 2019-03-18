@@ -1,0 +1,41 @@
+---
+title: "Bibliografía"
+---
+\
+<p align="justify">
+Araya-Salas, M., & Smith-Vidaurre, G. (2017). warbleR: anrpackage to streamline analysis of animal acoustic signals. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210x.12624
+\
+\
+BirdLife International (2017). Attila spadiceus (amended version of 2016   assessment). The IUCN Red List of Threatened Species 2017: e.T22700354A110739132. http://dx.doi.org/10.2305/IUCN.UK.2017-1.RLTS.T22700354A110739132.en. Recuperado el 12 marzo del 2019.
+\
+\
+Brumm, H., & Naguib, M. (2009). Chapter 1 Environmental Acoustics and the Evolution of Bird Song. Advances in the Study of Behavior. https://doi.org/10.1016/s0065-3454(09)40001-9
+\
+\
+Charif, RA, AM Waack, and LM Strickman. (2010). Raven Pro 1.4 User’s Manual. Cornell Lab of Ornithology, Ithaca, NY.
+\
+\
+Garrigues, R. & R. Dean. (2014). The birds of Costa Rica. Comstock Publishing Associates, a division of Cornell University Press, Ithaca, New York.
+\
+\
+Leger, D. & Mountjoy, J. (2003). GEOGRAPHIC VARIATION IN SONG OF THE BRIGHT-RUMPED ATTILA (TYRANNIDAE: ATTILA SPADICEUS): IMPLICATIONS FOR SPECIES STATUS GEOGRAPHIC VARIATION IN SONG OF THE BRIGHT-RUMPED ATTILA (TYRANNIDAE: ATTILA SPADICEUS): IMPLICATIONS FOR SPECIES STATUS.The Auk, 120(1):69–74.
+\
+\
+Odom, K. & Mennill, D. 2012.Variación Geográfica no Consistente en los Llamados y Duetos de Strix varia a través de un Área de Introgresión Genética.The Auk 129(3):387−398.
+\
+\
+Paul van Giersbergen, IBC1402614 (2017). Foto de Bright-rumped Attila spadiceus en el Bosque del Rio Tigre Lodge, Costa Rica. Acceso en hbw.com/ibc/1402614. Recuperado el 12 de marzo del 2019 de https://www.hbw.com/ibc/photo/bright-rumped-attila-attila-spadiceus/perched-bird  
+\
+\
+Pods, J. & Warren, P. (2007). The Evolution of Geographic Variation in Birdsong. Advances and studies of behavior,  37: 403-456. doi: 10.1016/S0065-3454(07)37009-5
+\
+\
+R Core Team (2018). R: A language and environment for statistical computing. 
+R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+\
+\
+Sober, S., Wohlgemuth, M. & Brainard, M. (2008) .Central Contributions to Acoustic Variation in Birdsong. The Journal of Neuroscience, 28(41):10370 –10379
+\
+\
+Stiller, G. & A. Skutch. (2007). Guía de Aves de Costa Rica. Instituto Nacional de Biodiversidad, INBio, Heredia, Costa Rica.
+</p>

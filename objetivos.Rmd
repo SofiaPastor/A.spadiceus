@@ -1,0 +1,15 @@
+---
+title: "Objetivos"
+---
+\
+<p align="justify">
+###**General**### 
+Analizar el canto de Attila spadiceus en 5 países utilizando métricas acústicas en Raven para determinar si existen variaciones.
+</p>
+\
+<p align="justify">
+###**Específicos**###
+1.Identificar los patrones de canto en un espectrograma por país, utilizando el software Raven Pro 1.5.
+\
+2.Comparar las medianas de las métricas determinadas de las grabaciones analizadas proveniente de los 5 países.
+</p>
