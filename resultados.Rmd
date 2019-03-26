@@ -4,7 +4,7 @@ title: "Resultados"
 
 \
 <p align="justify">
-Todas las variables, con excepción del poder promedio, que caracterizan el canto de A. spadiceus resultaron ser diferentes por país (Cuadro 2). Esto es observable en la figura 3.
+Todas las variables, con excepción del poder promedio, que caracterizan el canto de *A. spadiceus* resultaron ser diferentes por país (Cuadro 2). Esto es observable en la figura 3.
 </p>
 \
 <p align="justify">
@@ -14,11 +14,8 @@ Todas las variables, con excepción del poder promedio, que caracterizan el cant
 ![](imagenes/kk.jpg){width=600px} 
 </p>
 \
-<p align="center">
-![](imagenes/boxplot.jpg){width=1100px} 
-</p>
 <p align="justify">
-**Figura 3.** Comparación de métricas del canto de A. spadiceus. Se muestra la diferencia en la variación de los datos.  
+**Figura 3**. Comparación de métricas del canto de A. spadiceus. Se muestra la diferencia en la variación de los datos. [Ver pdf](imagenes/boxplots.pdf)
 </p>
 \
 <p align="justify">

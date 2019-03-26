@@ -4,7 +4,7 @@ title: "Objetivos"
 \
 <p align="justify">
 ###**General**### 
-Analizar el canto de Attila spadiceus en 5 países utilizando métricas acústicas en Raven para determinar si existen variaciones.
+Analizar el canto de *Attila spadiceus* en 5 países utilizando métricas acústicas en Raven para determinar si existen variaciones.
 </p>
 \
 <p align="justify">
